@@ -34,7 +34,7 @@ eye(4) %eye(N) is the NxN identity matrix that the main diagonal of the matrix i
 
 %% Problem #4
 
-[(zeros (7,7) + diag([5 5 5 5 5 5 5])),[5;5;5;5;5;5;5]]
+[diag([5 5 5 5 5 5 5]),[5;5;5;5;5;5;5]]
 
 %% Problem #5
 
